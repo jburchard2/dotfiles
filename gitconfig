@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = burchardjohannes@gmail.com
+	name = Johannes Burchard
